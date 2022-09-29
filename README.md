@@ -9973,6 +9973,2250 @@ for(var in in in) {
 
 **[⬆ Back to Top](#table-of-contents)**
 
+
+    1.  What does ECMAScript stand for? *
+
+    • European CPU Manufacturers Association Script
+    • Ecma International Scripting Language
+    • General Purpose Programming Language
+    • European Computer Manufacturers Association Script
+
+    2.  Is Java and JavaScript similar? *
+
+    • Yes
+    • Almost similar
+    • No
+
+    3.  When JavaScript was invented? *
+
+    • October 1999
+    • September 1998
+    • November 1995
+    • September 1993 
+    • September 1995
+
+    4.  Who created JavaScript? *
+    • Jordan Walke
+    • Dennis Ritchie
+    • Mark Zuckerberg
+    • James Gosling 
+    • Brendan Eich
+
+    5.  What is the latest version of ECMAScript? *
+
+    • ES2021
+    • ES21
+    • ES2020
+    • ES6
+    • ES2022
+
+    6. If 'script.js' file is in the same folder index.html file is, what will be the correct src for <script> Tag? *
+The Questions can have more than one correct answer.
+    • .//script.js
+    • ../script.js
+    • .\script.js
+    • ./script.js 
+    • script.js
+
+
+    7.  How to print the contents of the current window with JavaScript? *
+The Questions can have more than one correct answer.
+
+    • window.print()
+    • document.print()
+    • print()
+
+    8.  Why would you use console.log? *
+The Questions can have more than one correct answer.
+
+    • To access an HTML element
+    • JavaScript does not have any console.log function
+    • Print data to user
+    • To debug JavaScript Code
+    • For testing purpose
+
+    9.  What is the main purpose of innerHTML? *
+The Questions can have more than one correct answer.
+
+    • Print the content of the current window
+    • Testing the Code
+    • Used to write Dynamic Content on HTML
+    • To set or modify the Markup Content
+
+    10.  What is Chrome Dev Tool? *
+The Questions can have more than one correct answer.
+
+    • Shortcut tool for Developer
+    • Only tool to write JavaScript
+    • Latest Chrome Browser
+    • Developer tool to learn JavaScript
+    • Debugging tool for Developer
+
+    11.  If a JavaScript statement does not fit on one line what you should do? *
+The Questions can have more than one correct answer.
+
+    • Sue against JavaScript 
+    • Stop Coding
+    • Zoom Out the Browser window
+    • Break the Computer
+    • Break the Line
+
+    12.  What is a white space? *
+The Questions can have more than one correct answer.
+
+    • Game Characters
+    • Nothing
+    • Any Visual Representation 
+    • Empty Space
+    13.  Which statement is true for JavaScript Statement? *
+The Questions can have more than one correct answer.
+
+    • Statements are the commands that tell the browser to what action to perform.
+    • We can write multiple statements on one line
+    • JavaScript Statements are called JavaScript Code
+
+
+    14.  JavaScript block is delimited by *
+The Questions can have more than one correct answer.
+
+    • Second Brackets
+    • First Brackets
+    • []
+    • {}
+    • a pair of Curly Brackets
+
+    15.  What is the purpose of Code Blocks? *
+The Questions can have more than one correct answer.
+
+    • Programmers often like to use Code Blocks
+    • Because It helps programmers to learn programming in One day
+    • To define statements to be executed together.
+    • To group statements together
+
+    16.  JavaScript statements are composed of: *
+The Questions can have more than one correct answer.
+
+    • Values, Operators, Expressions, Keywords, and Comments
+
+    17.  Why do we use variables in programming? *
+The Questions can have more than one correct answer.
+
+    • To display Data
+    • To Log Data
+    • To separate JavaScript statements
+    • To label and store data in memory
+
+    18.  Types of JavaScript Values *
+The Questions can have more than one correct answer.
+
+    • Output Values
+    • Operator Values
+    • Print Values
+    • Literals
+    • Fixed Values 
+    • Variable Values
+
+    19. What is JavaScript Literals? *
+The Questions can have more than one correct answer.
+
+    • Operator Values
+    • Print Values
+    • Variable Values
+    • Fixed Values
+    • Number
+    • String
+
+    20.  Why equal sign (=) is used in programming? *
+The Questions can have more than one correct answer.
+
+    • To Check the equality
+    • To compare the equality
+    • To Set a value of a variable
+    • To Assign Values
+
+    21.  What is the correct syntax for adding comments in JavaScript? *
+The Questions can have more than one correct answer.
+
+    • !!
+    • <!-- this is Comment -->
+    • \\ this is Comment
+    • /* this is Comment */
+    • // this is Comment
+
+    22.  Why JavaScript uses Arithmetic Operators? *
+The Questions can have more than one correct answer.
+
+    • To identify actions to be performed
+    • To Assign Values
+    • Cause JavaScript Don't have Operation Theater 
+    • To Compute Values
+    • To Perform Mathematical Calculations
+
+    23.  Which syntax is correct for camel case? *
+The Questions can have more than one correct answer.
+
+    • Learn with Sumit
+    • lEarnWithSumit
+    • Learn_with_sumit 
+    • learnWithSumit
+
+
+
+
+    24.  What are expressions in JavaScript? *
+The Questions can have more than one correct answer.
+
+    • Set of rules that define a correctly structured JavaScript program
+    • Expressions are used to store data values
+    • Expressions are programming instructions
+    • Unit of code that can be evaluated to a value
+
+    25.  What are the JavaScript Variable Keywords? *
+The Questions can have more than one correct answer.
+
+    • var
+    • let
+    • const
+
+    26.  Which Statement is not Correct - *
+The Questions can have more than one correct answer.
+
+    • var lws = "30k";
+    • var ten = 5 + 5 + "Five";
+    • var 5 = five; var x - 50;
+    • var x+y = 10;
+    • var 0range = 20;
+    • var "x" = 100;
+
+    27.  How many ways to declare Variables in JavaScript? *
+
+    • 5
+    • 1
+    • 3
+    • 4
+
+    28.  `var x = 100;` - What is going on here ? *
+The Questions can have more than one correct answer.
+
+    • We are declaring variable 5
+    • We are comparing 'x' and 100
+    • We are defining a variable called 'x' and assigning its value 100
+    • We are assigning value 100 to 'x'
+
+    29.  Which Statement is Correct? *
+The Questions can have more than one correct answer.
+
+    • Variable x and Variable X is similar
+    • Variable Name can start with letters or digit
+    • 'var' can be variable name
+    • Variables are Case Sensitive
+    • Variables names can start with $ or _
+    • Variable Name can start with letters
+
+    30.  The purpose of Variable is to *
+The Questions can have more than one correct answer.
+
+    • Remove Data
+    • Declare Value
+    • Assign Value
+    • Store Value
+
+    31.  When did ECMAScript 6 come out? *
+The Questions can have more than one correct answer.
+
+    • 2026
+    • 2006
+    • 2016
+    • 2015
+
+    32.  What is the output of the following code? *
+
+
+
+    • x CAN be used here
+    • x = 100
+    • ReferenceError: x is not defined
+    • 100
+
+    33.  What is the output of the following code? *
+The Questions can have more than one correct answer.
+
+
+
+    • SyntaxError: 'var' has already been declared
+    • Hello World
+    • ReferenceError: var is not defined 
+    • Uncaught SyntaxError: Unexpected token 'var'
+    34.  What happens when we declare a let variable twice? *
+The Questions can have more than one correct answer.
+
+    • Nothing Happens
+    • I will work perfectly
+    • It is fine to declare let variable twice 
+    • It will show Error
+    • It will show 'SyntaxError'
+
+    35.  What is the output of the following code? *
+The Questions can have more than one correct answer.
+
+
+    • "JavaScript"
+    • JavaScript
+    • SyntaxError: 'name' has already been declared 
+    • ReferenceError: x is not defined
+
+    36.  How do we put JavaScript code inside HTML file? *
+The Questions can have more than one correct answer.
+
+    • <link type='javascript'>
+    • inside opening and closing </script> tag
+    • inside <javascript> tag
+    • inside opening and closing <script> tag
+
+
+
+    37.  Which one is correct? *
+The Questions can have more than one correct answer.
+
+    • Option 1
+
+    • Option 2
+
+    • Option 3
+
+
+
+    38.  What is the difference between const and let? *
+The Questions can have more than one correct answer.
+
+    • variables declared with const can be reassigned but can't be reassigned in case of let
+    • const allows to reassign after it has been assigned
+    • const is almost exactly the same as let
+    • variables declared with const can't be reassigned but can be reassigned in case of let
+
+    39.  Which operators are used for mathematical calculations? *
+The Questions can have more than one correct answer.
+
+    • Comparison Operators
+    • String Operators
+    • Logical Operators
+    • Assignment Operators
+    • Arithmetic Operators
+
+    40.  Which operators are used to perform comparison? *
+The Questions can have more than one correct answer.
+
+    • Logical Operators
+    • String Operators
+    • Arithmetic Operators
+    • Assignment Operators 
+    • Comparison Operators
+
+    41.  What is the JavaScript operator for multiplication? *
+
+    • x
+    • %
+    • **
+    • Exponentiation
+    • *
+    42.  What is the correct example of JavaScript String Operators? *
+The Questions can have more than one correct answer.
+
+    • let age = 30 + 40;
+    • const value = "Hello" && "World"
+    • const text = "I Love" + " Bangladesh";
+    • let age = 25 + " years old";
+
+    43.  What is modulus (%) operator used for? *
+The Questions can have more than one correct answer.
+
+    • To find the Percentage Value
+    • It helps to create new JavaScript module
+    • Returns the remainder after dividing one number by another
+    • It returns the remainder of left dividing the hand operand by right hand operand
+
+
+
+
+
+
+
+    44.  What is the output of code below? *
+
+
+
+    • 0.09
+    • .9
+    • .02
+    • 2
+
+    45. Inside 'information' object, we call 'name' and 'tutorials' as - *
+The Questions can have more than one correct answer.
+
+
+
+    • Function
+    • Array
+    • Value
+    • Object Method
+    • String
+    • Object Property
+
+    46.  Which one will throw an error? *
+The Questions can have more than one correct answer.
+
+    • let str = "He called is called Johnny"; 
+    • let str = "He called is called " + "Johnny";
+    • let str = "He called is called 'Johnny'";
+    • let str = 'He called is called Johnny ''; 
+
+    47.  What data type is True False? *
+The Questions can have more than one correct answer.
+
+    • Array
+    • null
+    • String
+    • undefined
+    • Number 
+    • Boolean
+
+    48.  What are textual data types in JavaScript? *
+The Questions can have more than one correct answer.
+
+    • Array
+    • Text
+    • null
+    • undefined
+    • Number 
+    • String
+
+    49.  What is the use of 'typeof' operator in JavaScript? *
+The Questions can have more than one correct answer.
+
+    • Declare the type of a JavaScript variable
+    • Assign the type of a JavaScript variable
+    • Remove the type of a JavaScript variable
+    • Find the type of a JavaScript variable
+
+    50.  Which one is not a JavaScript data type? *
+The Questions can have more than one correct answer.
+
+    • number
+    • string
+    • array
+    • undefined 
+    • typeof
+
+    51.  What are the data type of JavaScript? *
+The Questions can have more than one correct answer.
+
+    • String
+    • Number
+    • Boolean
+    • Function
+    • Object
+    • Symbol
+    • BigInt
+    • Null
+    • Undefined
+    52.  What is the output of code below? *
+
+
+
+    • He is(2021 - 1990)Years old
+    • He is (2021 - 1990) Years old
+    • He is (31) Years old 
+    • He is 31 Years old
+
+    53.  Which keyword is used to define a function? *
+The Questions can have more than one correct answer.
+
+    • public static void main
+    • object
+    • call
+    • fun
+    • invoke 
+    • function
+
+    54.  What is argument? *
+The Questions can have more than one correct answer.
+
+    • Return Value of a function
+    • Information that is passed into a function definition
+    • The values received by the function when it is invoked
+    • The Value we pass while invoking a function
+
+    55.  What is the purpose of return statement in a Function? *
+The Questions can have more than one correct answer.
+
+    • Enhances the readability of a program
+    • Helps to reduce typing same code many times
+    • Accomplish a specific task
+    • The function will stop executing and return a value
+    • To return a value after executing a function.
+
+    56.  When JavaScript function is executed? *
+The Questions can have more than one correct answer.
+
+    • When Something Calls it
+    • When Programmer Invoke the Function
+    • To execute a function It must have to have a parameter
+    • Whenever It wants to be executed
+    • If the function body is defined
+
+    57.  What is parameter? *
+The Questions can have more than one correct answer.
+
+    • The Value we pass while invoking a function
+    • Return Value of a function
+    • The values received by the function when it is invoked 
+    • Information that is passed into a function definition
+
+    58.  What is function in JavaScript? *
+The Questions can have more than one correct answer.
+
+    • A new Operator
+    • A data type used in JavaScript
+    • An useless data type
+    • An array of characters
+    • A New Data type
+    • A block of code
+
+    59.  What are the advantages of using functions? *
+The Questions can have more than one correct answer.
+
+    • Helps to reduce typing same code many times
+    • Avoid repetition of codes.
+    • Enhances the readability of a program
+
+    60.  How do you show "Doe" in a dialog box? *
+The Questions can have more than one correct answer.
+
+
+
+    • console.log(person.lastName)
+    • console.log(person["lastName"]);
+    • alert(person[lastName]);
+    • alert(person["lastName"]);
+    • alert(person.lastName);
+
+    61.  What's the output? *
+The Questions can have more than one correct answer.
+
+
+
+    • 30
+    • 40
+    • 20.00
+    • 20
+
+    62.  What will be the output of this code? *
+The Questions can have more than one correct answer.
+
+
+
+    • Syntax Error
+    • JavaScript and undefined
+    • undefined and 21
+    • ReferenceError and 21
+    • JavaScript and 21
+    • undefined and ReferenceError
+
+    63.  Which statement will log 'Mickey' in console? *
+The Questions can have more than one correct answer.
+
+
+
+    • console.log(bird['mouse']['name'])
+    • console.log(mouse.name);
+    • console.log(bird.mouse.name);
+    • console.log(mouse['name'])
+
+    64.  'this' refers to the _________ of the function *
+The Questions can have more than one correct answer.
+
+    • Operators
+    • expressions
+    • Strings
+    • Owner
+    • Caller Object
+
+    65. What is event in JavaScript? *
+The Questions can have more than one correct answer.
+
+    • Game Event
+    • String Event
+    • Talk with Sumit Event
+    • Programming Event
+    • "things" that happen to HTML Element
+
+    66.  Which are valid HTML Event? *
+The Questions can have more than one correct answer.
+
+    • onevent
+    • onlive 
+    • onkeydown
+    • onclick
+    • onload
+    67.  What is the use of \t in a String? *
+The Questions can have more than one correct answer.
+
+    • Vertical Tabulator
+    • New Line
+    • Backspace
+    • Horizontal Tabulator
+
+    68.  How will you find the size of a string? *
+The Questions can have more than one correct answer.
+
+
+
+    • text.size;
+    • text.length();
+    • text.size();
+    • text.length;
+
+    69. Which method will extract 'Sokina' from the string? *
+The Questions can have more than one correct answer.
+
+
+
+    • str.slice(11, 18);
+    • str.substr(11, 18)
+    • str.substr(-6)
+    • str.substr(7, 12)
+    • str.substr(7)
+    70. What is the use of \n in a String? *
+The Questions can have more than one correct answer.
+
+    • Backspace
+    • Vertical Tabulator
+    • Carriage Return
+    • Creates New Line
+
+
+    71.  What does String.trim () do in JavaScript? *
+The Questions can have more than one correct answer.
+
+    • Removes the whitespaces from start of string
+    • Removes the whitespaces from end of string
+    • Removes the Blackspace 
+    • Removes the Whitespaces from start and end of string
+
+    72.  Which method will extract 'Brown' from the string? *
+The Questions can have more than one correct answer.
+
+
+
+    • str.substr(11, 18)
+    • str.substr(9, 15)
+    • str.slice(11, 18);
+    • str.substring(10, 15)
+    • str.slice(10, 15);
+
+    73.  Guess the Output *
+The Questions can have more than one correct answer.
+
+
+
+    • The quick brown fox jumps over the lazy cat. If the dog reacted, was it really lazy?
+    • The quick brown fox jumps over the lazy dog. If the dog reacted, was it really lazy?
+    • The quick brown fox jumps over the lazy cat. If the cat reacted, was it really lazy? 
+    • The quick brown fox jumps over the lazy Dog. If the cat reacted, was it really lazy?
+
+    74.  Convert the String of groceries into an array *
+The Questions can have more than one correct answer.
+
+
+
+    • groceries.split('')
+    • groceries.split('')
+    • groceries.split('-')
+    • groceries.split('|') 
+    • groceries.split(',')
+
+    75.  What will be the output? *
+
+
+
+    • 7777 		// Note: Syntax: string.padStart(targetLength, padString)
+    • 4444447		// This type of padding is sometimes called left pad or lpad
+    • 77777
+    • 7774
+
+    76. Guess the Output *
+
+
+
+    • Five + Two = five + two But Five - Two = five - two
+    • Five + Two = 7 But Five - Two = 52
+    • Five + Two = 52 But Five - Two = 3
+
+    77.  What is the difference between double equal and tripple equal in JavaScript? *
+The Questions can have more than one correct answer.
+
+    • Double equal only compares the value but tripple equal compares value and data type.
+
+    78.  JavaScript has distinct types for numbers like int, float, etc. Is it True or False? *
+
+    • True
+    • False
+
+    79.  typeof NaN returns a - *
+
+    • number
+
+    80.  What will be the output of this code? *
+The Questions can have more than one correct answer.
+
+
+
+    • BAAA
+    • BA1AA
+    • BAAAA
+    • BANANA
+
+    81. What is the length of fastFood array? *
+
+
+
+    • 1
+    • 5
+    • 3
+    • 4
+    • 0
+    82.  What will be the correct output? *
+
+
+
+    • [null, null, null, null, null, "Hello World"]
+    • ["Hello World"]
+    • ["undefined", " undefined", " undefined", " undefined", " undefined", " undefined", "Hello World"]
+
+    83.  What is an Array? *
+The Questions can have more than one correct answer.
+
+    • Sequence of Numbers
+    • Combination of Arithmetic Operators
+    • Sequence of Characters
+    • Collection of Elements
+
+    84.  How would you access the last element from the array? *
+The Questions can have more than one correct answer.
+
+
+
+    • fastFood[ fastFood.size - 1];
+    • fastFood[ fastFood.size() - 1];
+    • fastFood[ fastFood.length];
+    • fastFood[ fastFood.length() - 1];
+    • fastFood[ fastFood.length - 1];
+
+    85.  How would you extract "" from the array list ? *
+The Questions can have more than one correct answer.
+
+
+
+    • console.log(fastFoods[fastFood.length]);
+    • console.log(fastFoods[4]);
+    • console.log(fastFood[fastFood.indexOf("")]);
+    • console.log(fastFood[4]);
+    • alert(fastFood[4]);
+
+    86. How would you remove the first or the last element from the array? *
+The Questions can have more than one correct answer.
+
+
+
+    • fruits.push()
+    • fruits.remove()
+    • fruits.unshift()
+    • fruits.shift()		// First
+    • fruits.pop();		// Last
+
+    87.  How would you remove   and  ? *
+
+
+
+    • Foods.splice(3,-1);
+    • Foods.splice(2,3);
+    • Foods.splice(3,4);
+    • Foods.splice(2,2);
+
+    88.  How would you replace "" with "" ? *
+The Questions can have more than one correct answer.
+
+
+
+    • fruits.replace("") = "";
+    • fruits[3] = "";
+    • fruits.shift("") = ""; 
+    • fruits[ fruits.indexOf("") ] = "";
+    • fruits[2] = "";
+
+    89.  Convert the fruits array to a comma separated String - *
+The Questions can have more than one correct answer.
+
+
+
+    • fruits.arrayToString()
+    • fruits.join("-")
+    • fruits.join(",")
+    • fruits.toString();
+    • fruits.join()
+    90.  Guess the Output *
+
+
+
+    • 4, 23, 12, 40
+    • 4, 23, 12
+    • [4, 23, 12, 40]
+    • [4, 23, 12]
+    91.  How will you find the highest number from this array? *
+The Questions can have more than one correct answer.
+
+
+
+    • arr.sort(function(a, b){return a + b})
+    • arr.sort(function(a, b){return b - a})
+    • math.max.apply(null, arr);
+    • Math.min.apply(null, arr);
+    • Math.max.apply(null, arr);
+    • arr.sort(function(a, b){return b - a})[0]
+
+    92.  What is the third parameter of forEach Function? *
+
+    • External Array
+    • Undefined
+    • Item Index
+    • Item Value 
+    • Array Itself
+
+    93.  What is the purpose of "Array.includes()"? *
+The Questions can have more than one correct answer.
+
+    • It push a new value to the array
+    • 4, 23, 12, 40
+    • Array.includes() method checks if the value is existing in the array
+    94.  Sort the fruits array alphabetically in descending order *
+The Questions can have more than one correct answer.
+
+
+
+    • fruits.sort().desending();
+    • fruits.sort();
+    • fruits.sort(function(a,b) {return a-b}); 
+    • fruits.sort().reverse();
+
+    95.  Sort the fruits array alphabetically in ascending order *
+The Questions can have more than one correct answer.
+
+
+
+    • fruits.sort(function(a,b) {return a-b});
+    • fruits.sort().desending();
+    • fruits.sort().reverse();
+    • fruits.sort();
+
+    96.  What is the return value of 'forEach' and 'map' method? *
+
+    • array and array
+    • null and array
+    • nothing & array
+    • undefined and undefined
+    • undefined and array
+
+    97. What will be the output of this question? *
+
+
+
+    • [25, 29]
+    • 25, 29
+    • [25]
+    • 25
+
+    98.  Which method is used to convert date to milliseconds? *
+
+    • Date.milli()
+    • Date.int.parse();
+    • Date.miisecond();
+    • Date.parse()
+
+    99.  Guess the Output *
+
+
+
+    • 2020, 2020
+    • 2020, 2021
+    • 2021, 2020
+    • 2021, 2021
+
+    100.  How would you print current date? *
+The Questions can have more than one correct answer.
+
+    • console.log(new Date.now());
+    • console.log(new Date().now());
+    • alert(new Date());
+    • console.log(new Date());
+
+    101. What is the return value of - Math.round(1.499); *
+
+    • 1
+    • 1.5
+    • 1.4
+    • 2
+
+    102.  What is the purpose of Math.random(); *
+The Questions can have more than one correct answer.
+
+    • Generate Random Number.
+ 
+    103.  Which is the correct code for generating absolute random number between 1-100? *
+The Questions can have more than one correct answer.
+
+    • Math.Random()
+    • Math.random() * 100 + 1
+    • Math.floor(Math.Random() * 100) + 1 
+    • Math.floor(Math.random() * 100) + 1
+
+    104.  What is the purpose of Math.abs(); *
+The Questions can have more than one correct answer.
+
+    • Returns Absolute Value
+    • Returns Positive Value
+    • Returns six pack abs
+
+    105.  What Math.ceil() method does? *
+The Questions can have more than one correct answer.
+
+    • Rounds a number up to the next largest integer
+    • Returns the integer part of a number by removing any fractional digits
+    • Returns the largest integer less than or equal to a given number
+
+    106. If the Score is 15, what will be the output of this code? *
+The Questions can have more than one correct answer.
+
+    • Yes, It is !
+    • No, It's not !
+
+    107.  What will be the output of this code? *
+The Questions can have more than one correct answer.
+
+    • Undefined
+    • 2021
+    • ReferenceError
+
+    108.  What will be the output of this code? *
+The Questions can have more than one correct answer.
+
+    • undefined
+    • Off
+    • Reference Error 
+    • No Value Found
+
+    109.  When the 'if' block of code will be executed? *
+The Questions can have more than one correct answer.
+    • When the Condition is True
+    • When the Condition is not False
+
+    110.  If the Score is 15, what will be the output of this code? *
+The Questions can have more than one correct answer.
+
+    • Yes, It is !
+    • No, It's not !
+
+ 
+    111.  When the 'else' block of code will be executed? *
+The Questions can have more than one correct answer.
+    • When the Condition is False
+
+    112.  If the Score is 15, what will be the output of this code? *
+The Questions can have more than one correct answer.
+
+    • B
+    • C
+    • Undefined
+    • ReferenceError
+    • E
+    • A
+    • D
+
+    113.  What will be the output of this code? *
+The Questions can have more than one correct answer.
+
+    • Oranges are $0.59 a pound.
+    • null
+    • undefined
+    • Sorry, we are out of Stock.
+    • Reference Error 
+    • Mangoes and papayas are $2.79 a pound.
+
+    114.  As a Coder, What is the first thing you should do when you are stuck on a problem? *
+The Questions can have more than one correct answer.
+    • Post On Facebook groups and Ask for help
+    • Search for the Solution on Netflix
+    • Stop Coding and Watch Movie
+    • Ask Community Facebook group
+    • Search for the Solution on Google
+
+
+    115.  If the Score is 15, what will be the output of this code? *
+The Questions can have more than one correct answer.
+
+    • Undefined
+    • No, It's not !
+    • ReferenceError
+    • Yes, It is !
+
+    116.  In this code `this` refers to - *
+The Questions can have more than one correct answer.
+
+    • Methods of the Object
+    • All the Methods
+    • Properties of the Object
+    • Owner of the Function
+    • Person Object
+
+
+    117.  Which function will reorganize the array from the end to the start? *
+The Questions can have more than one correct answer.
+
+    • accessories.sort();accessories.shift();
+    • accessories.reorganize();
+    • accessories.compile();
+    • accessories.push();
+    • accessories.re();
+    • accessories.reverse();
+
+    118.  What will be the output of this code? *
+The Questions can have more than one correct answer.
+
+    • Headphone
+    • Keyboard
+    • Monitor
+    • Mouse 
+    • Cables
+
+    119. Why 'break' statement is used in a loop? *
+The Questions can have more than one correct answer.
+
+    • Skip Current Iteration
+    • To Jump Over one Iteration
+    • Immediately terminate Current Loop
+    • To Jump Out from a loop
+
+
+    120.  Which statement will skip only current Iteration? *
+The Questions can have more than one correct answer.
+
+    • break
+    • skip
+    • continue
+    121. Guess the Output - *
+The Questions can have more than one correct answer.
+
+
+
+    • string
+    • A Object
+    • Array
+    • Undefined
+    • Number
+
+    122.  What is the type of an Array? *
+The Questions can have more than one correct answer.
+
+
+
+    • Number
+    • Undefined
+    • Array
+    • String
+    • A Object
+
+    123.  Type of 'NaN' (Not a Number) is a - *
+The Questions can have more than one correct answer.
+
+    • String
+    • A Object
+    • Undefined
+    • Array
+    • Number
+
+    124.  Return value of 'typeof' could be - *
+The Questions can have more than one correct answer.
+
+    • A Object
+    • String
+    • Boolean
+    • Number
+    • Date
+    • Undefined
+    • Array
+    125.  'typeof' is a - *
+The Questions can have more than one correct answer.
+
+    • Function
+    • Method
+    • Property
+    • Variable
+    • Attribute
+    • Statement 
+    • Operator
+
+    126. 'typeof' a function is a - *
+The Questions can have more than one correct answer.
+    • undefined
+    • array 
+    • object
+    • string
+    • function
+
+    127.  How would you Generate Random Numbers -*
+The Questions can have more than one correct answer.
+    • Math.random();
+    • Math.Random;
+    • Math.Random();
+    • Math.random;
+
+    128.  How Can You Convert a Number to a String*
+The Questions can have more than one correct answer.
+
+    • ++x
+    • x+
+    • x.toInt()
+    • String(x);
+    • x.toString();
+    • x+""
+
+    129.  Guess the Output - *
+The Questions can have more than one correct answer.
+
+    • Reference Error
+    • undefined
+    • false
+    • true
+
+    130.  What will be the output? *
+The Questions can have more than one correct answer.
+
+    • name is 38 years old
+    • `${this.name} is 38 years old`
+    • this.name is 38 years old
+    • Sakib is 38 years’ old
+
+    131.  How Can You Convert a String to a Number *
+The Questions can have more than one correct answer.
+
+    • x.parseInt();
+    • x.toInt()
+    • x+
+    • +x; 
+    • parseInt(x); 
+    132. In case of JavaScript Throw Statement, what does JavaScript throws? *
+The Questions can have more than one correct answer.
+
+    • An Error
+    • Exception
+    • String
+    • A Book
+    • Undefined
+    • Null
+
+    133.  What is the difference between Array and Set? *
+The Questions can have more than one correct answer.
+
+    • Set contains unique values but Array can contain duplicate values
+    • Set can contain only String Data type but Array can contain all data types
+    • Array can contain unlimited values but Set contains only limited contain
+    • Array and Set is same thing
+
+    134.  Purpose of 'catch' Statement is - *
+The Questions can have more than one correct answer.
+
+    • Catch the Virus
+    • Create Custom Error
+    • Throw the Error
+    • Handle the Error
+
+
+    135.  Which one will return true? *
+The Questions can have more than one correct answer.
+
+    • Number('Hello Peter');
+    • Boolean()
+    • isNaN('123')
+    • Boolean({});
+    • isNaN('Hello Peter');
+
+    136. let & const provide - *
+The Questions can have more than one correct answer.
+
+    • Undefined Scope
+    • Functional Scope
+    • Global Scope
+    • Block Scope
+
+
+    137.  If we declare a variable, let test = 1, then later, reassign, stating test == 2, what will happen? *
+The Questions can have more than one correct answer.
+
+    • JS will raise a TypeError
+    • test will equal undefined
+    • test will equal to 2 
+    • test will equal to 1
+
+    138.  This will log "Volvo" in the console, But why? *
+The Questions can have more than one correct answer.
+
+
+
+    • Because of Block Scope
+    • This is the Feature of Modern Browser
+    • This is the rule of Functional Scope
+    • Variable Assigned but Not declared
+    • Keyword of the variable is not defined
+
+    139.  Variables declared Globally can accessible from *
+The Questions can have more than one correct answer.
+
+    • Global Scope
+    • Block Scope
+    • Functional Scope
+    • Any Where in the Program
+
+    140.  What is scope in JavaScript? *
+The Questions can have more than one correct answer.
+
+    • Availability of variables in a certain area
+    • Accessibility of variables.
+    •  Particular Zone where variables are available
+
+
+
+    141.  Why let and const are not similar? *
+
+    • let cannot be reassigned, const can be reassigned
+    • let is block scope, while const is functional scope
+    • let is the new feature of es6 but const is old feature of ECMA Script
+    • let can be reassigned but const can't be reassigned
+
+    142.  What will be the output of this code? *
+The Questions can have more than one correct answer.
+
+
+
+    • undefined
+    • null
+    • Peter
+    • Hello
+
+    143. Guess the Output - *
+The Questions can have more than one correct answer.
+
+
+
+    • undefined
+    • Hello Peter Reference Error
+    • Undefined
+    • Hello Peter 🕷
+    • Hello Peter XX
+    • Reference Error
+
+
+    144.  Guess the Output - *
+The Questions can have more than one correct answer.
+
+
+
+    • Reference Error
+    • 2
+    • 3
+    • Undefined
+    • 1
+
+    145.  What is temporal dead zone? *
+The Questions can have more than one correct answer.
+
+    • State of a variable until it is declared
+    • Where Variables value become Zero
+    • Situation when program gets crushed
+    • Similar to Area 51
+
+    146.  What JavaScript hoisting does? *
+The Questions can have more than one correct answer.
+
+    • Move the Declarations to the top
+    • Convert Variable value to Undefined
+    • Move a variable to the top
+    • Capture a variable into a block
+    • Block a variable
+
+
+
+
+
+    147.  What will be the output of this code? *
+The Questions can have more than one correct answer.
+
+
+
+    • String
+    • null
+    • "Kealan"
+    • Kealan
+    • Undefined 
+    • ReferenceError
+
+
+    148.  "this" keyword refers to - *
+The Questions can have more than one correct answer.
+
+    • Global object
+    • Owner object
+
+    149.  In the calculateBMI function 'this' keyword refers to - *
+The Questions can have more than one correct answer.
+
+
+    • Global Object
+    • undefined
+    • Block Object
+    • Owner of the Method
+    • person Object
+    150.  "use strict" is a - *
+The Questions can have more than one correct answer.
+
+    • Operation
+    • Variable
+    • Object
+    • Syntax
+    • Statement 
+    • Literal Expression
+
+    151.  Which are true about "use strict" - *
+The Questions can have more than one correct answer.
+
+    • Undeclare Variables
+    • Introduced in ECMAScript 5
+    • Write Secure JavaScript
+    • Execute code in Strict Mode
+
+    152.  "this" is a - *
+The Questions can have more than one correct answer.
+
+    • Literal Expression
+    • Syntax
+    • Statement
+    • Variable
+    • Object
+    • Operation 
+    • Keyword
+
+    153. Arrow function provide us to write - *
+The Questions can have more than one correct answer.
+
+    • functions in strict mode
+    • Scope less function
+    • Big Function
+    • shorter function syntax
+    • concise way to write functions
+
+    154.  Arrow Function and Normal Function handle 'this' differently *
+The Questions can have more than one correct answer.
+
+    • True
+    • False
+
+    155.  When did Arrow Function introduced? *
+The Questions can have more than one correct answer.
+
+    • 2015
+    156.  Guess the Output - *
+The Questions can have more than one correct answer.
+
+
+
+    • Undefined
+    • Function Body
+    • Function Object 
+    • Window object
+
+    157.  Guess the Output - *
+The Questions can have more than one correct answer.
+
+
+
+    • Empty
+    • Reference Error
+    • Hello Peter
+    • Null 
+    • undefined
+
+    158. What is Class in JavaScript? *
+The Questions can have more than one correct answer.
+
+    • JavaScript Object
+    • Alternative of Object
+    • Object Property 
+    • Template for JavaScript Object
+
+    159.  Which keyword is used to create a class - *
+The Questions can have more than one correct answer.
+
+    • Classes
+    • constructor
+    • classes 
+    • class
+
+    160.  How do you convert a JSON String to JSON? *
+The Questions can have more than one correct answer.
+
+
+
+    • JSON.toStr(text)
+    • String.toJSON(text)
+    • JSON(text)
+    • JSON.parse(text)
+
+    161.  How do you remove 'Prince' property from this object? *
+The Questions can have more than one correct answer.
+
+
+    • remove obj["Prince"]
+    • obj["Prince"].delete()
+    • obj["Prince"].remove()
+    • delete obj["Prince"]
+
+
+
+
+    162.  Which is the correct way to add new property to this object? *
+The Questions can have more than one correct answer.
+
+
+
+    • obj['Daft Punk'] = ["Harder, Better, Faster, Stronger"];
+    • obj.push('Daft Punk' : ["Harder, Better, Faster, Stronger"]);
+    • obj = {...obj, {'Daft Punk' : ["Harder, Better, Faster, Stronger"]}}
+    • obj.add('Daft Punk' : ["Harder, Better, Faster, Stronger"]);
+
+    163.  JSON data is a pair of - *
+The Questions can have more than one correct answer.
+
+    • Comma and Semi Colon
+    • Curly braces and Square braces
+    • Object and Array
+    • Name and Value
+
+    164.  JSON stands for - *
+The Questions can have more than one correct answer.
+
+    • JavaScript Operation Management
+    • Java Source Open Network
+    • Java Specified Object Notation 
+    • JavaScript Object Notation
+
+    165. Which keyword stops the execution of JavaScript? *
+The Questions can have more than one correct answer.
+
+    • debugger
+    • tool
+    • stop
+    • pause
+    • dev
+
+    166.  What represents 'console' in the 'console.log()' method? *
+The Questions can have more than one correct answer.
+
+    • Program
+    • Subject
+    • Hackers Tools
+    • Game Console
+    • Object
+
+    167.  With a debugger breakpoints helps to - *
+The Questions can have more than one correct answer.
+
+    • Stop execution
+    • Remove Bug
+    • Start execution
+    • Fix Bug
+    • Release Debugging
+
+    168.  In a function how many break point we can use? *
+The Questions can have more than one correct answer.
+
+    • Many
+    • Three
+    • Two
+    • One
+    • Four
+
+// Note: You can set up to 30 dynamic breakpoints without changing the program code
+
+    169.  console.log method used to display - *
+The Questions can have more than one correct answer.
+
+    • Output
+    • Values
+    • Errors
+
+    170.  Which build-in debugger is available in all modern browsers? *
+The Questions can have more than one correct answer.
+
+    • ECMAScript
+    • JavaScript
+    • Python and javascript
+    • C++
+    • None of the above
+
+    171. How do you round the number 100.495 to nearest integer? *
+The Questions can have more than one correct answer.
+
+    • Math.trunc(100.495);
+    • Math.int(100.495);
+    • Math.round(100.495);
+    • Math.floor(100.495);
+
+
+    172.  Guess the Output *
+The Questions can have more than one correct answer.
+
+
+
+    • 
+    • 4 3 2 1 0
+    • 
+    • 0 1 2 3 4			// Note: for in use for object iteration
+
+    173. Guess the Output *
+The Questions can have more than one correct answer.
+
+
+    • 
+    • 1 2 3 4 5
+    • 
+    • 0 1 2 3 4
+    174.  What is the correct way to write a JavaScript Array? *
+The Questions can have more than one correct answer.
+
+    • let colors = [blue, red, green];
+    • let colors = {'blue', 'red', 'green'};
+    • let colors = Array('blue', 'red', 'green');
+    • let colors = ['blue', 'red', 'green'];
+
+
+    175.  Fill in the blank *
+The Questions can have more than one correct answer.
+
+
+
+    • let i = 0; i< 10; i++
+    • i = 0; i< 10; i++
+    • let i = 0; i=< 10; i++
+    • let i = 0, i< 10, i++
+    • let i = 1; i< 10; i++
+
+    176.  How Many statements are needed for a "For Loop"? *
+The Questions can have more than one correct answer.
+
+    • 3
+    • 1
+    • 4
+    • 2
+
+    177. What is the output of this code? *
+The Questions can have more than one correct answer.
+
+
+
+    • true, undefined
+    • false, true
+    • undefined, false
+    • true, true
+    • false, undefined
+    • false, false
+    • true, false
+
+
+
+    178.  Which statement is true for Let? *
+The Questions can have more than one correct answer.
+
+    • Assign Expressions to some variable
+    • Assign Operators to a variable
+    • Let Provides Block scope
+    • let variables cannot be re-declared
+
+    179.  What is the purpose of Assignment operator? *
+The Questions can have more than one correct answer.
+
+    • Assign Operators to a variable
+    • Assign Expressions to some variable
+    • Assign values to a Boolean
+    • Assign values to variables
+
+    180.  What are logical operators? *
+The Questions can have more than one correct answer.
+
+    • ?
+    • ===
+    • <=
+    • &&
+    • ||
+    • !
+
+    181.  What is the output of Boolean(undefined)? *
+The Questions can have more than one correct answer.
+
+    • false
+    • off
+    • on
+    • yes
+    • no
+    • true
+
+
+    182.  What are the possible values of Boolean Data Type? *
+The Questions can have more than one correct answer.
+
+    • yes
+    • no
+    • on
+    • off
+    • true
+    • false
+
+    183.  JavaScript Sets - *
+The Questions can have more than one correct answer.
+
+    • is a collection of unique values.
+    • can hold any value of any data type.
+    • Each value can only occur once
+    • none of the above
+
+    184.  How to Create a Set? *
+The Questions can have more than one correct answer.
+
+    • Passing an Array to new Set()
+    • Create a new Set and use add() to add values
+    • Create a new Set and use add() to add variables
+
+    185. Which method can also be used to change existing Map values? *
+The Questions can have more than one correct answer.
+
+    • sets()
+    • get()
+    • has()
+    • set()
+
+    186.  The size property returns __________ of elements in a Map. *
+The Questions can have more than one correct answer.
+
+    • number
+    • quantum
+    • value
+    • Length
+
+    187.  How to Create a Map? *
+The Questions can have more than one correct answer.
+
+    • Create a Map and use Map.sets()
+    • Passing an Array to new.Map()
+    • Passing an Array to new Map()
+    • Create a Map and use Map.set()
+
+    188. Which method returns true if a key exists in a Map? *
+The Questions can have more than one correct answer.
+
+    • sets()
+    • get()
+    • set()
+    • has()
+
+
+    189.  Triple Equal (===) operator compares - *
+The Questions can have more than one correct answer.
+
+    • Function
+    • Argument
+    • Parameter
+    • Data Type
+    • Data Value
+
+    190.  What is the best practice of treating Numbers, Strings, or Booleans? *
+The Questions can have more than one correct answer.
+
+    • Boolean
+    • Function
+    • Object
+    • Array
+    • Primitive Value
+
+    191. What should you do when JavaScript Statement doesn't fit on One line? *
+The Questions can have more than one correct answer.
+
+    • Break the Line and Separate with Camel case Letter
+    • Break the Line and Separate with Operator
+    • Stop Coding
+    • Break your Computer 
+    • Break the Line and Separate with Comma
+
+    192.  What is the best practice to end switch statements? *
+The Questions can have more than one correct answer.
+
+    • Case
+    • Switch
+    • Break
+    • Function 
+    • Default
+
+    193.  Subtracting a string from a string, what does it generate? *
+The Questions can have more than one correct answer.
+
+    • undefined
+    • Number
+    • String
+    • Not a Number
+
+
+
+    194. What will be the output/return value of myFunction()? *
+The Questions can have more than one correct answer.
+
+
+
+    • null
+    • 3
+    • 10
+    • Empty
+    • 13
+    • NaN 
+    • Undefined		// Note: function return missing
+
+    195.  In JavaScript + operator use to - *
+The Questions can have more than one correct answer.
+
+    • Add Numbers
+    • Concatenate Strings
+    • Add Strings
+
+    196.  Does JavaScript support arrays with Named Index? *
+The Questions can have more than one correct answer.
+
+    • true
+    • false 	// Note: JavaScript does not support arrays with named indexes.
+
+    197.  All numbers in JavaScript are stored as - *
+The Questions can have more than one correct answer.
+
+    • 32-bits decimal numbers
+    • 64-bits decimal numbers
+    • 32-bits Floating point numbers
+    • 64-bits Floating point numbers
+
+
+
+
+    198.  What will be the return value of myFunction()? *
+The Questions can have more than one correct answer.
+
+
+
+    • undefined
+    • Empty
+    • null
+    • 100000000
+    • NaN
+    • a * power
+    • 10000000000
+
+    199. Primitive data types are - *
+The Questions can have more than one correct answer.
+
+    • number
+    • string
+    • boolean
+    • null
+    • undefined
+    • symbol
+
+
+    200.  Objects are variables? *
+The Questions can have more than one correct answer.
+
+    • true
+    • false
+
+
+    201.  A null "value" is always - *
+The Questions can have more than one correct answer.
+
+    • undefined
+    • function
+    • object 
+    • null
+    202.  A primitive value has no - *
+The Questions can have more than one correct answer.
+
+    • value
+    • methods
+    • properties
+
+    203.  Objects can be created by - *
+The Questions can have more than one correct answer.
+
+    • Create a single object, using an object literal.
+    • Create a single object, with the keyword new.
+    • Define an object constructor, and then create objects of the constructed type.
+    • Create an object using Object.create().
+
+
+    204.  Which are objects in javascript? *
+The Questions can have more than one correct answer.
+
+    • Regular expressions
+    • Math
+    • Date
+    • new Numbers
+
+    205. A JavaScript object is a collection of __________ properties. *
+The Questions can have more than one correct answer.
+
+    • unordered
+    • new
+    • ordered
+    • array
+
+
+
+    206.  In JavaScript objects the delete keyword deletes? *
+The Questions can have more than one correct answer.
+
+    • Deletes both the value of the property and the property itself.
+    • the value of the property
+    • the property itself
+
+    207.  How can we access nested objects using the dot notation or the bracket notation? *
+The Questions can have more than one correct answer.
+
+
+
+    • myObj.cars["car2"];
+    • myObj["cars"]["car2"];
+    • myObj.cars.car2;
+
+    208.  Properties can usually be - *
+The Questions can have more than one correct answer.
+
+    • added
+    • deleted
+    • some are read only
+    • only the value attribute can be changed
+    • changed, added, and deleted, but some are read only.
+
+    209.  The syntax for accessing the property of an object is? *
+The Questions can have more than one correct answer.
+
+    • objectName[expression]
+    • objectName["property"]
+    • objectName.property
+    • objectName["value"]
+
+    210.  The JavaScript _________ statement loops through the properties of an object. *
+The Questions can have more than one correct answer.
+
+    • do...while
+    • for...of
+    • switch 
+    • for...in
+
+    211. How can we capitalize the all word. *
+The Questions can have more than one correct answer.
+
+
+
+    • Message.toUpperCase();
+    • message.ToUpperCase();
+    • message.toUppercase();
+    • message.toUpperCase();
+
+    212.  JSON.stringify converts dates into - *
+The Questions can have more than one correct answer.
+
+    • strings
+    • numbers
+    • undefined
+    • json
+
+    213.  How can we display JavaScript objects properly -*
+The Questions can have more than one correct answer.
+
+    • using Object.values()
+    • Properties in a Loop
+    • using JSON.stringify()
+    • Properties by name
+
+    214.  Displaying a JavaScript object will output the - *
+The Questions can have more than one correct answer.
+
+    • value
+    • [object Object]
+    • Displaying a JavaScript object will output [object Object] 
+    215.  JavaScript methods are actions that can be performed on - *
+The Questions can have more than one correct answer.
+
+    • objects
+    • functions
+    • array
+    • JavaScript methods are actions that can be performed on objects
+
+    216. Which is faster? *
+The Questions can have more than one correct answer.
+
+    • new String()
+    • new Function()
+    • Use string literals "" instead of new String().
+    • Use pattern literals /()/ instead of new RegExp()
+
+
+    217.  The new keyword can be used on Math? *
+The Questions can have more than one correct answer.
+
+    • No
+    • Yes
+
+    218.  JavaScript has built-in constructors for native objects are - *
+The Questions can have more than one correct answer.
+
+    • new String()    // A new String object
+    • new Number()    // A new Number object
+    • new Boolean()   // A new Boolean object
+    • new Object()    // A new Object object
+    • new Array()     // A new Array object
+    • new RegExp()    // A new RegExp object
+    • new Function()  // A new Function object
+    • new Date()      // A new Date object
+
+    219.  What is the typeOf x? *
+The Questions can have more than one correct answer.
+
+
+
+    • numbers
+    • String
+    • Object
+    • Boolean
+
+    220.  What is the typeOf firstName? *
+The Questions can have more than one correct answer.
+
+
+
+    • numbers
+    • String
+    • Undefined
+    • Object
+
+    221. What will be the output? *
+The Questions can have more than one correct answer.
+
+
+
+    • undefined
+    • We can not add a new property to an existing object
+    • TypeError
+    • null
+    • John Doe
+
+    222.  How will you print 'Elon Musk' from the Object? *
+The Questions can have more than one correct answer.
+
+
+
+    • inventor['b']
+    • inventor[spaceX]
+    • inventor.b 
+    • inventor[b]
+    • inventor['spaceX']
+
+    223. What happens when we do this? *
+The Questions can have more than one correct answer.
+
+
+
+    • SyntaxError. You cannot add properties to a function this way.
+    • ReferenceError
+    • "Woof" gets logged. 
+    • Nothing, this is totally fine!
+
+    224.  Guess the Output *
+The Questions can have more than one correct answer.
+
+
+
+    • TypeError
+    • ReferenceError
+    • Hey!
+    • Undefined 
+    • Hello
+
+
+
+
+
+    225.  What is the output of this code? *
+The Questions can have more than one correct answer.
+
+
+
+    • NaN and 63
+    • 20 and NaN
+    • 20 and 62.83185307179586
+    • 20 and 63
+
+    226. What is the default return value of a function? *
+The Questions can have more than one correct answer.
+
+    • undefined
+    • null
+    • empty
+    • blank
+
+    227.  What is the type of a function? *
+The Questions can have more than one correct answer.
+
+    • function
+    • Array
+    • undefined
+    • Object
+    • Null
+
+    228.  JS Functions are defined with the keyword - *
+The Questions can have more than one correct answer.
+
+    • function
+    • functions
+    • method
+    • def
+    • fun
+    229.  When function does not hoisted? *
+The Questions can have more than one correct answer.
+
+    • when we don't invoke a function
+    • function declaration never hoisted
+    • when we use semi-clone at the end of function definition
+    • When the function is written as Arrow Function
+    • When Function is defined using expression
+
+    230.  In JavaScript Function is an - *
+The Questions can have more than one correct answer.
+
+    • Null
+    • Array
+    • Function
+    • Argument
+    • Undefined
+    • Object
+
+    231.  A function without a name is called *
+The Questions can have more than one correct answer.
+
+    • Undefined Function
+    • Invoke Function
+    • Null Function
+    • Unknown Function
+    • Anonymous Function
+
+    232. What are the difference between Function Parameters & Arguments? *
+The Questions can have more than one correct answer.
+
+    • Arguments are invoked but Parameters are called
+    • Parameters are listed in function definition & Arguments are actual Value
+    • Arguments are Passed by Value & Parameters are Passed by Reference
+
+
+    233.  Default Value of a Parameter is - *
+The Questions can have more than one correct answer.
+
+    • String
+    • Number
+    • Argument
+    • Undefined
+
+
+    234.  When a function is called without an owner object, what will be the value of `this`? *
+The Questions can have more than one correct answer.
+
+    • external object
+    • method object
+    • parameter object
+    • arguments object 
+    • window object 
+
+    235.  What is the purpose of call()? *
+The Questions can have more than one correct answer.
+
+    • With the call() method, you can write a method that can be used on different objects.
+    • With call(), an object can use a method belonging to another object.
+    • call() method is a predefined JavaScript method
+    • call() method can accept arguments
+
+
+
+    236.  Which are true about call() & apply() ? *
+The Questions can have more than one correct answer.
+
+    • The call() method takes arguments separately.
+    • The apply() method takes arguments as an array.
+
+    237.  Which one is the build in object of a function? *
+The Questions can have more than one correct answer.
+
+    • method object
+    • parameter object
+    • window object
+    • external object
+    • arguments object
+
+    238. What is the name of the method that should be added to a class? *
+The Questions can have more than one correct answer.
+
+    • Class
+    • Template Literals
+    • Number
+    • object
+    • constructor
+
+    239.  When the constructor method is called? *
+The Questions can have more than one correct answer.
+
+    • When the object is removed
+    • When the object is logged in the console
+    • when the method is called 
+    • when a new object is created.
+
+    240.  JavaScript Classes are templates for - *
+The Questions can have more than one correct answer.
+
+    • Template Literals
+    • String
+    • Number
+    • Class 
+    • Object
+    • JavaScript Classes are templates for JavaScript Objects 
+
+
+
+
+    241.  Which one is true about the Constructor Method? *
+The Questions can have more than one correct answer.
+
+    • Constructor executed automatically
+    • We can change the method name
+    • We don't need the Constructor method
+    • Constructor method is optional
+
+    242. Which keyword is used to create class inheritance? *
+The Questions can have more than one correct answer.
+
+    • inheritance
+    • super
+    • class
+    • inherit
+    • extends
+
+    243.  Why we should declare a class before using it? *
+The Questions can have more than one correct answer.
+
+    • It is the default rule of class
+    • Because we are using Constructor Method in the class
+    • Cause class declarations are hoisted 
+    • Cause class declarations are not hoisted
+
+    244.  The super() method refers to the - *
+The Questions can have more than one correct answer.
+
+    • Object of the Class
+    • Class
+    • Constructor Method
+    • Parent Function
+    • Current class
+    • Parent class
+
+    245.  Static Class method cannot be called on - *
+The Questions can have more than one correct answer.
+
+    • a constructor method
+    • an object class
+    • a super method
+    • an object
+    • cannot call a static method on an object, only on an object class
+
+
+    246.  Name List of JavaScript Engines
+The Questions can have more than one correct answer.
+
+    • Google Chrome = V8
+    • Mozilla Firefox = Spider Monkey
+    • Edge (Internet Explorer) = Chakra
+    • Safari = Javascript Core Webkit
+
+    247.  If you type the following code in the console window, what result will you get?
+3 > 2 > 1 === false;
+    • true
+    • false
+
+    248.  JavaScript is a ___ -side programming language.
+
+    • Client
+    • Server
+    • None 
+    • Both
+	 
+    249.  How do you find the minimum of x and y using JavaScript?
+    • min(x,y);
+    • Math.min(xy)
+    • min(xy); 
+    • Math.min(x,y)
+
+    250.  Which of the following statements will throw an error?
+Please select 2 correct answers
+    • var fun = function bar( ){ } 
+    • function fun( ){ }
+    • var fun = function bar{ }
+    • function( ){ }
+
+    251.  If the value of x is 40, then what is the output of the following program?
+(x % 10 == 0)? console.log(“Divisible by 10”) : console.log(“Not divisible by 10”);
+    • ReferenceError
+    • Not divisible by 10
+    • None of the above 
+    • Divisible by 10
+
+    252.  Which JavaScript label catches all the values, except for the ones specified?
+
+    • catch
+    • label
+    • try
+    • default
+
+    253.  What is the output of the following code in the console?
+var x = 0;
+function fun(){
+	++x;
+	this.x = x;
+	return x;
+}
+var bar = new new fun;
+console.log(bar.x);
+
+    • ReferenceError
+    • undefined
+    • 1
+    • TypeError
+
 ## Disclaimer
 
 The questions provided in this repository are the summary of frequently asked questions across numerous companies. We cannot guarantee that these questions will actually be asked during your interview process, nor should you focus on memorizing all of them. The primary purpose is for you to get a sense of what some companies might ask — do not get discouraged if you don't know the answer to all of them ⁠— that is ok!
